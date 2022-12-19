@@ -45,7 +45,6 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [Super Bunnyhop](https://www.youtube.com/c/bunnyhopshow)
 - [SsethTzeentach](https://www.youtube.com/c/SsethTzeentach)
 - [Stop Skeletons From Fighting](https://www.youtube.com/c/StopSkeletonsFromFighting)
-- [The Game Overanalyser](https://www.youtube.com/@thegameoveranalyser4835)
 - [Thomas Game Docs](https://www.youtube.com/@ThomasGameDocs)
 - [ThorHighHeels](https://www.youtube.com/user/ThorHighHeels)
 - [Umbrella Terms](https://www.youtube.com/@UmbrellaTerms)
