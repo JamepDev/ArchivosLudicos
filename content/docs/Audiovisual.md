@@ -24,6 +24,7 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [Jeremy Parish | Video Works](https://www.youtube.com/c/JeremyParish)
 - [LambHoot](https://www.youtube.com/user/LambHoot)
 - [Leon Massey](https://www.youtube.com/user/MeowsyOnEUW)
+- [Low Spec Gamer](https://www.youtube.com/channel/UCQkd05iAYed2-LOmhjzDG6g)
 - [Maraganger](https://www.youtube.com/@maraganger)
 - [Masahiro Sakurai on Creating Games](https://www.youtube.com/channel/UCv1DvRY5PyHHt3KN9ghunuw)
 - [Matt McMuscles](https://www.youtube.com/@MattMcMuscles)
