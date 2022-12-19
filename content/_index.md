@@ -1,5 +1,6 @@
 ---
-title: Archivos Lúdicos
+title: Página Principal
+description: Bienvenido a los archivos lúdicos
 ---
 
 <div style="text-align: center">
