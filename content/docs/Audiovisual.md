@@ -51,7 +51,7 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [Umbrella Terms](https://www.youtube.com/@UmbrellaTerms)
 - [uricksaladbar](https://www.youtube.com/@uricksaladbar)
 - [Video Game Animation Study](https://www.youtube.com/@VideoGameAnimationStudy)
-
+- [Writing on Games](https://www.youtube.com/@WritingOnGames)
 
 #### Español
 - [Alejandro Julián](https://www.youtube.com/user/AlejandroJSL)
