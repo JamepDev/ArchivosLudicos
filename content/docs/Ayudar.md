@@ -56,4 +56,10 @@ Ahora les aparecerá otra sección donde harán una solicitud para hacer los cam
 
 Con esto solo presionan el botón “Create pull request”, con esto la responsabilidad queda en mi de aceptar su cambio o rechazarlo.
 
-Con esto termino este pequeño tutorial, si quieren más afondo sobre esta plataforma tienen que buscar mas información sobre git, espero que les sea de ayuda y puedan aportar a este pequeño proyecto.</div>
+  ### Sincronización
+Como funciona el git es que hacen sus propias versiones de mi propio proyecto, a esto se le llama fork, lo que tienen que hacer cada vez que vayan a editar un archivo es sincronizar su modificación, así tienen la última versión estable que pueden modificar, lo que evita conflictos.
+  <div style="text-align: center">
+  <img src = "https://raw.githubusercontent.com/JamepDev/ArchivosLudicos/main/static/T9.png"></div>
+  
+
+Con esto termino este pequeño tutorial, si quieren más a fondo sobre esta plataforma tienen que buscar más información sobre git, espero que les sea de ayuda y puedan aportar a este pequeño proyecto.</div>
