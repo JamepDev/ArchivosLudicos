@@ -54,6 +54,7 @@ description: Conferencias, documentales, canales de youtube, etc.
 
 #### Español
 - [Alejandro Julián](https://www.youtube.com/user/AlejandroJSL)
+- [AnaitGames](https://www.youtube.com/@anaitgames)
 - [BeetBeatBit](https://www.youtube.com/channel/UCvVOxuJqDgGkL683uvkOCGg)
 - [Chiguiro Renegado](https://www.youtube.com/c/ChiguiroRenegado)
 - [Coalición Pixel](https://www.youtube.com/channel/UChn7IS0X7C7_IvCDym_P90A)
