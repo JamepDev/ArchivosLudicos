@@ -7,10 +7,12 @@ description: Conferencias, documentales, canales de youtube, etc.
 ## Youtube
 ### Canales
 #### Inglés
+- [The Act Man](https://www.youtube.com/@TheActMan)
 - [ActionButton](https://www.youtube.com/c/ActionButton)
 - [Ahoy](https://www.youtube.com/user/XboxAhoy)
 - [Core-A Gaming](https://www.youtube.com/c/CoreAGaming)
 - [Cutscenes](https://www.youtube.com/channel/UC1LbVYK0KwVrX9ke3i0tpfQ)
+- [Crowbcat](https://www.youtube.com/@crowbcat)
 - [DidYouKnowGaming?](https://www.youtube.com/@DYKGaming)
 - [Digital Foundry](https://www.youtube.com/@DigitalFoundry)
 - [Electron Dance](https://www.youtube.com/@Electrondance)
@@ -20,6 +22,7 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [TheGamingBritShow](https://www.youtube.com/user/TheGamingBritShow)
 - [Gaming Historian](https://www.youtube.com/user/mcfrosticles)
 - [Ghenry Perez](https://www.youtube.com/user/GhenryPerez)
+- [I Finished A Video Game](https://www.youtube.com/@IFinishedAVideoGame)
 - [InfernoPlus](https://www.youtube.com/user/dmtinfernocide)
 - [Jeremy Parish | Video Works](https://www.youtube.com/c/JeremyParish)
 - [LambHoot](https://www.youtube.com/user/LambHoot)
@@ -53,12 +56,14 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [Writing on Games](https://www.youtube.com/@WritingOnGames)
 
 #### Español
+- [3GordosB](https://www.youtube.com/@3GordosB)
 - [Alejandro Julián](https://www.youtube.com/user/AlejandroJSL)
 - [AnaitGames](https://www.youtube.com/@anaitgames)
 - [BeetBeatBit](https://www.youtube.com/channel/UCvVOxuJqDgGkL683uvkOCGg)
 - [Chiguiro Renegado](https://www.youtube.com/c/ChiguiroRenegado)
 - [Coalición Pixel](https://www.youtube.com/channel/UChn7IS0X7C7_IvCDym_P90A)
 - [Dorimi Prism](https://www.youtube.com/@TrapnestShinigami)
+- [GazAdventures](https://www.youtube.com/@GazAdventures)
 - [Guinxu](https://www.youtube.com/c/Guinxu)
 - [Hugo M. Gris](https://www.youtube.com/channel/UCaLz_puKCmed5kEkuJzSgpA)
 - [Eric Wiseman](https://www.youtube.com/@EricWiseman)
@@ -75,6 +80,7 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [MightyRengar](https://www.youtube.com/c/MightyRengarrr)
 - [Pabloide](https://www.youtube.com/channel/UCgQ7_cgUWWTi4oQCAlezj1A)
 - [pixel2pixel](https://www.youtube.com/user/pixel2pixel)
+- [Yo no salgo a la calle](https://www.youtube.com/@El_Rafa)
 
 ### Videos
 - [Classic Game Postmortem: Robotron: 2084](https://youtu.be/90GuCjmNzVI)
