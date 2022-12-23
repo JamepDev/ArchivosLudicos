@@ -18,7 +18,7 @@ description: Libros, articulos y blogs.
 
 
 - - -
-No puedo proporcionar links de descarga de la mayoría de estos libros, pero se pueden encontrar fácilmente en Amazon o por [Library Genesis](https://www.libgen.tw/) si andas corto de presupuesto ;)
+No puedo proporcionar links de descarga de la mayoría de estos libros, asi que andáte a la concha de tu hermana negro de mierda.
 
 ## Blogs
 
@@ -34,7 +34,6 @@ No puedo proporcionar links de descarga de la mayoría de estos libros, pero se 
 - [Game Oeuvre](https://gameoeuvre.org/)
 - [Gaming Alexandria](https://www.gamingalexandria.com/)
 - [Ira](https://yosoyira.medium.com/)
-- [La Mesita Anacrónica](https://mesitaluder.blogspot.com/)
 - [ROMchip](https://romchip.org/index.php/romchip-journal/index)
 - [Tevis Thompson](http://tevisthompson.com/)
 - [Video Game History Foundation](https://gamehistory.org/blog/)
