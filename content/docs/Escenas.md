@@ -19,6 +19,7 @@ title: Escenas del mundo
 - [Bromio](https://www.bromio.com.mx/)
 - [Dynamic Media Triad](https://www.dmtriad.com/)
 - [Lienzo](https://www.lienzo.mx/es/inicio/)
+- [Merlino Games](https://www.merlinogames.com/)
 ### Miscelaneo
 - [Consolas mexicanas](https://www.youtube.com/playlist?list=PLOrxat7kyFnzShaPeXmOUBecC84DamVOP) 
 - [Mexican Videogames](https://www.backloggd.com/u/Jamep/list/mexican-videogames/)
