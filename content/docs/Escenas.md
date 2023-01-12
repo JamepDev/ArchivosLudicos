@@ -3,10 +3,26 @@ title: Escenas del mundo
 ---
 # Escenas del mundo
 
-## China
+## Argentina
 ### Desarrolladores
 
-### Miscelaneo
+### Misceláneo
+- [Imperum AO](https://www.imperiumao.com.ar/)
+- [Godot Engine](https://godotengine.org/)
+
+
+## Brasil
+### Desarrolladores
+- [Bombservice](https://www.bombservice.com/)
+
+
+### Misceláneo
+
+## China
+### Desarrolladores
+- [MiHoYo](https://www.mihoyo.com/)
+
+### Misceláneo
 - [The Curious Story of China's Indie Gaming Scene](https://www.youtube.com/watch?v=_VrTZ_UeUxM)
 - [Games from China and Taiwan](https://store.steampowered.com/curator/32768202-Games-from-China-and-Taiwan/)
 
@@ -20,16 +36,28 @@ title: Escenas del mundo
 - [Dynamic Media Triad](https://www.dmtriad.com/)
 - [Lienzo](https://www.lienzo.mx/es/inicio/)
 - [Merlino Games](https://www.merlinogames.com/)
-### Miscelaneo
+### Misceláneo
 - [Consolas mexicanas](https://www.youtube.com/playlist?list=PLOrxat7kyFnzShaPeXmOUBecC84DamVOP) 
 - [Mexican Videogames](https://www.backloggd.com/u/Jamep/list/mexican-videogames/)
 - [LOS VIDEOJUEGOS EN MÉXICO](https://www.youtube.com/watch?v=w0C6R7pSePA)
 
+## Suecia
+### Desarrolladores
+- [Daniel Remar](https://remar.se/daniel/)
+- [Ludosity Games](https://ludosity.com/)
+
+### Misceláneo
 
 ## Taiwan
 ### Desarrolladores
 
-### Miscelaneo
+### Misceláneo
 - [A'can: An ill-fated video game console from Taiwan](https://www.youtube.com/watch?v=Ycy861t9m_A)
 - [Games from China and Taiwan](https://store.steampowered.com/curator/32768202-Games-from-China-and-Taiwan/)
+
+## Venezuela
+### Desarrolladores
+- [Sukeban Games](https://sukeban.moe/)
+
+### Misceláneo
 
