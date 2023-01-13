@@ -33,6 +33,7 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [Matt McMuscles](https://www.youtube.com/@MattMcMuscles)
 - [Matthewmatosis](https://www.youtube.com/user/Matthewmatosis)
 - [Max0r](https://www.youtube.com/@Max0r)
+- [Merlino Games](https://www.youtube.com/@Merlino_Games)
 - [MrBtongue](https://www.youtube.com/@MrBtongue)
 - [Modern Vintage Gamer](https://www.youtube.com/c/ModernVintageGamer)
 - [NakeyJakey](https://www.youtube.com/@NakeyJakey)
@@ -84,6 +85,7 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [Yo no salgo a la calle](https://www.youtube.com/@El_Rafa)
 
 ### Videos
+- [Classic Game Postmortem: Panzer Dragoon, Panzer Dragoon Zwei, and Panzer Dragoon Saga](https://www.youtube.com/watch?v=gMOMsEmde-w)
 - [Classic Game Postmortem: Robotron: 2084](https://youtu.be/90GuCjmNzVI)
 - [Classic Game Postmortem: Yars' Revenge](https://www.youtube.com/watch?v=aqH4k_OEqhY)
 - [Chris Crawford Dragon Speech](https://www.youtube.com/watch?v=CBrj4S24074)
