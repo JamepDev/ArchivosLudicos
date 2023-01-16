@@ -18,7 +18,9 @@ description: Libros, articulos y blogs.
 
 
 - - -
-No puedo proporcionar links de descarga de la mayoría de estos libros, pero se pueden encontrar fácilmente en Amazon o por [Library Genesis](https://www.libgen.tw/) si andas corto de presupuesto ;)
+No puedo proporcionar links de descarga de la mayoría de estos libros, pero se
+pueden encontrar fácilmente en Amazon o por
+[Library Genesis](https://www.libgen.tw/) si andas corto de presupuesto ;)
 
 ## Blogs
 
