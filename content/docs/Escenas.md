@@ -3,7 +3,7 @@ title: Escenas del mundo
 ---
 # Escenas del mundo
 
-## Argentina
+## 🇦🇷 Argentina
 ### Desarrolladores
 
 ### Misceláneo
@@ -11,14 +11,14 @@ title: Escenas del mundo
 - [Godot Engine](https://godotengine.org/)
 
 
-## Brasil
+## 🇧🇷 Brasil
 ### Desarrolladores
 - [Bombservice](https://www.bombservice.com/)
 
 
 ### Misceláneo
 
-## China
+## 🇨🇳 China
 ### Desarrolladores
 - [MiHoYo](https://www.mihoyo.com/)
 
@@ -26,11 +26,11 @@ title: Escenas del mundo
 - [The Curious Story of China's Indie Gaming Scene](https://www.youtube.com/watch?v=_VrTZ_UeUxM)
 - [Games from China and Taiwan](https://store.steampowered.com/curator/32768202-Games-from-China-and-Taiwan/)
 
-## Japón
+## 🇯🇵 Japón
 ### Desarrolladores
 - [Studio Pixel](https://studiopixel.jp/)
 
-## México
+## 🇲🇽 México
 ### Desarrolladores
 - [Bromio](https://www.bromio.com.mx/)
 - [Dynamic Media Triad](https://www.dmtriad.com/)
@@ -41,21 +41,21 @@ title: Escenas del mundo
 - [Mexican Videogames](https://www.backloggd.com/u/Jamep/list/mexican-videogames/)
 - [LOS VIDEOJUEGOS EN MÉXICO](https://www.youtube.com/watch?v=w0C6R7pSePA)
 
-## Suecia
+## 🇸🇪 Suecia
 ### Desarrolladores
 - [Daniel Remar](https://remar.se/daniel/)
 - [Ludosity Games](https://ludosity.com/)
 
 ### Misceláneo
 
-## Taiwan
+## 🇹🇼 Taiwan
 ### Desarrolladores
 
 ### Misceláneo
 - [A'can: An ill-fated video game console from Taiwan](https://www.youtube.com/watch?v=Ycy861t9m_A)
 - [Games from China and Taiwan](https://store.steampowered.com/curator/32768202-Games-from-China-and-Taiwan/)
 
-## Venezuela
+## 🇻🇪 Venezuela
 ### Desarrolladores
 - [Sukeban Games](https://sukeban.moe/)
 
