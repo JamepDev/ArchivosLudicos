@@ -46,6 +46,7 @@ pueden encontrar fácilmente en Amazon o por
 [Library Genesis](https://www.libgen.tw/) si andas corto de presupuesto ;)
 
 ## Libros de Arte
+- [Armored Core Chronicle Art Works](https://archive.org/details/artbook-Armored_Core_Chronicle_Art_Works_Book)
 - [Armored Core 4 & For Answer](https://archive.org/details/armoredcoredesigns4foranswer/)
 - Bayonetta
   - [The Eyes Of Bayonetta](https://archive.org/details/bayonetta1officialartbookeyesofbayonetta_201912)
@@ -65,6 +66,9 @@ pueden encontrar fácilmente en Amazon o por
   - [Mega Man Zero: Official Complete Works](https://archive.org/details/rockmanzeroofficialcompleteworks/)
 - [Metroid Dread Artbook](https://archive.org/details/metroid-dread-special-edition-artbook)
 - [Resident Evil 2](https://archive.org/details/biohazard-2-prologue-of-terrors)
+- Shadow Of The Colossus
+  - [Parte 1](https://archive.org/details/artbook-Shadow_of_the_Colossus_1)
+  - [Parte 2](https://archive.org/details/artbook-Shadow_of_the_Colossus_2)
 - [Street Fighter 20th Anniversary Artbook](https://archive.org/details/streetfighter20th_201910)
 - [Street Fighter III: New Generation](https://archive.org/details/artbook-Street_Fighter_III_New_Generation_Artbook)
 - Street Fighter IV Official Complete Works
