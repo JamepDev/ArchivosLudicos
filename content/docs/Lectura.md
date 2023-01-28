@@ -4,26 +4,11 @@ description: Libros, articulos y blogs.
 ---
 # Lectura
   
-
-## Libros
-- Atari to Zelda: Japan's Videogames in Global Contexts - Mia Consalvo
-- Cultural Code: Video Games and Latin America - Phillip Penix-Tadsen 
-- [The CRPG Book Project - Felipe Pepe](https://crpgbook.wordpress.com/)
-- Debugging Game History: A Critical Lexicon -  Henry Lowood y Raiford Guins
-- Game Feel: A Game Designer's Guide to Virtual Sensation - Steve Swink 
-- Handmade Pixels: Independent Video Games and the Quest for Authenticity - Jesper Juul
-- I Am Error: The Nintendo Family Computer / Entertainment System Platform - Nathan Altice
-- The Ultimate History of Video Games - Steven L. Kent
-- Video Games Around the World - Mark J. P. Wolf 
-
-
-- - -
-No puedo proporcionar links de descarga de la mayoría de estos libros, pero se
-pueden encontrar fácilmente en Amazon o por
-[Library Genesis](https://www.libgen.tw/) si andas corto de presupuesto ;)
+## Articulos
+- [The Game, the Player, the World: Looking for a Heart of Gameness - Jesper Juul](https://www.jesperjuul.net/text/gameplayerworld/)
+- [MDA: A Formal Approach to Game Design and Game Research](https://users.cs.northwestern.edu/~hunicke/MDA.pdf)
 
 ## Blogs
-
 - [.myri](https://imaginarysong.medium.com/)
 - [Bad Game Hall of Fame](https://www.badgamehalloffame.com/)
 - [BeetBeatBit](https://beetbeatbit.blogspot.com/)
@@ -43,8 +28,47 @@ pueden encontrar fácilmente en Amazon o por
 - [Xator Nova](https://xatornova.blogspot.com/)
 
 
+## Libros
+- Atari to Zelda: Japan's Videogames in Global Contexts - Mia Consalvo
+- Cultural Code: Video Games and Latin America - Phillip Penix-Tadsen 
+- [The CRPG Book Project - Felipe Pepe](https://crpgbook.wordpress.com/)
+- Debugging Game History: A Critical Lexicon -  Henry Lowood y Raiford Guins
+- Game Feel: A Game Designer's Guide to Virtual Sensation - Steve Swink 
+- Handmade Pixels: Independent Video Games and the Quest for Authenticity - Jesper Juul
+- I Am Error: The Nintendo Family Computer / Entertainment System Platform - Nathan Altice
+- The Ultimate History of Video Games - Steven L. Kent
+- Video Games Around the World - Mark J. P. Wolf 
 
-## Articulos
 
-- [The Game, the Player, the World: Looking for a Heart of Gameness - Jesper Juul](https://www.jesperjuul.net/text/gameplayerworld/)
-- [MDA: A Formal Approach to Game Design and Game Research](https://users.cs.northwestern.edu/~hunicke/MDA.pdf)
+- - -
+No puedo proporcionar links de descarga de la mayoría de estos libros, pero se
+pueden encontrar fácilmente en Amazon o por
+[Library Genesis](https://www.libgen.tw/) si andas corto de presupuesto ;)
+
+## Libros de Arte
+- [Armored Core 4 & For Answer](https://archive.org/details/armoredcoredesigns4foranswer/)
+- Bayonetta
+  - [The Eyes Of Bayonetta](https://archive.org/details/bayonetta1officialartbookeyesofbayonetta_201912)
+  - [The Art Of Bayonetta](https://archive.org/details/bayoartbook)
+- [Bayonetta 2](https://archive.org/details/BAYONETTA2OFFICIALARTBOOKTHEEYESOFBAYONETTA2ByKBG_201812/mode/2up)
+- [Dark Souls](https://archive.org/details/DarkSoulsLENM2106Xbox360PAL/)
+- [Dark Souls 2](https://archive.org/details/dark-souls-2-design-works)
+- [Dead Space](https://archive.org/details/the-art-of-dead-space)
+- [Demon's Souls Artbook](https://archive.org/details/DemonsSoulsBlackPhantomEditionArtbookCBZ)
+- [Elden Ring](https://archive.org/details/Elden_Ring_Digital_Artbook)
+- Mega Man Zero
+  - [Capcom Special Selection: Rockman Zero](https://archive.org/details/capcomspecialselectionrockmanzero/)
+  - [Mega Man Zero: Official Complete Works](https://archive.org/details/rockmanzeroofficialcompleteworks/)
+- [Metroid Dread Artbook](https://archive.org/details/metroid-dread-special-edition-artbook)
+- [Resident Evil 2](https://archive.org/details/biohazard-2-prologue-of-terrors)
+- [Street Fighter 20th Anniversary Artbook](https://archive.org/details/streetfighter20th_201910)
+- [Street Fighter III: New Generation](https://archive.org/details/artbook-Street_Fighter_III_New_Generation_Artbook)
+- [Tohuo Project Art Book](https://archive.org/details/42_20200706/)
+
+## Manuales
+- [MDK](https://retrogamer.biz/wp-content/uploads/2016/01/MDK-Manual.pdf)
+- [MDK 2](https://archive.org/details/ps2_MDK_2-_Armageddon_USA)
+
+
+
+
