@@ -140,6 +140,7 @@ pueden encontrar fácilmente en Amazon o por
 - [Uncharted: Drake's Fortune](https://archive.org/details/artbook-Uncharted_Trilogy_vol_1)
 - [Uncharted 2: Among Thieves](https://archive.org/details/artbook-Uncharted_Trilogy_vol_2)
 - [Uncharted 3: Drake's Deception](https://archive.org/details/artbook-Uncharted_Trilogy_vol_3)
+- [The Witcher 3: Wild Hunt](https://archive.org/details/the-witcher-3-wild-hunt-artbook/)
 - [White Knight Chronicles](https://archive.org/details/Shirokishi_Monogatari_Artbook)
 - [World Of Warcraft](https://archive.org/details/the-art-of-world-of-warcraft/)
 - [Xenoblade Chronicles X](https://archive.org/details/xenoblade-chronicles-x-the-secret-file-art-of-mira_202103)
