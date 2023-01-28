@@ -50,6 +50,7 @@ pueden encontrar fácilmente en Amazon o por
 - [The Alliance Alive](https://archive.org/details/036_20190915/)
 - [Armored Core Chronicle Art Works](https://archive.org/details/artbook-Armored_Core_Chronicle_Art_Works_Book)
 - [Armored Core 4 & For Answer](https://archive.org/details/armoredcoredesigns4foranswer/)
+- [Art Of Atari](https://archive.org/details/artofatari0000lape)
 - Bayonetta
   - [The Eyes Of Bayonetta](https://archive.org/details/bayonetta1officialartbookeyesofbayonetta_201912)
   - [The Art Of Bayonetta](https://archive.org/details/bayoartbook)
