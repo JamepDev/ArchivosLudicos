@@ -54,8 +54,12 @@ pueden encontrar fácilmente en Amazon o por
 - [Dark Souls](https://archive.org/details/DarkSoulsLENM2106Xbox360PAL/)
 - [Dark Souls 2](https://archive.org/details/dark-souls-2-design-works)
 - [Dead Space](https://archive.org/details/the-art-of-dead-space)
-- [Demon's Souls Artbook](https://archive.org/details/DemonsSoulsBlackPhantomEditionArtbookCBZ)
+- [Demon's Souls](https://archive.org/details/DemonsSoulsBlackPhantomEditionArtbookCBZ)
 - [Elden Ring](https://archive.org/details/Elden_Ring_Digital_Artbook)
+- [Fire Emblem 20th Anniversary](https://archive.org/details/20thanniversaryfamuburemu)
+- Mega Man Battle Network
+  - [Capcom Special Collection: Rockman EXE](https://archive.org/details/capcomspecialselectionrockmanexe)
+  - [Mega Man Battle Network Official Complete Works](https://archive.org/details/MegaManBattleNetworkOfficialCompleteWorks)
 - Mega Man Zero
   - [Capcom Special Selection: Rockman Zero](https://archive.org/details/capcomspecialselectionrockmanzero/)
   - [Mega Man Zero: Official Complete Works](https://archive.org/details/rockmanzeroofficialcompleteworks/)
@@ -63,7 +67,12 @@ pueden encontrar fácilmente en Amazon o por
 - [Resident Evil 2](https://archive.org/details/biohazard-2-prologue-of-terrors)
 - [Street Fighter 20th Anniversary Artbook](https://archive.org/details/streetfighter20th_201910)
 - [Street Fighter III: New Generation](https://archive.org/details/artbook-Street_Fighter_III_New_Generation_Artbook)
-- [Tohuo Project Art Book](https://archive.org/details/42_20200706/)
+- Street Fighter IV Official Complete Works
+  - [Parte 1](https://archive.org/details/artbook-Super_Street_Fighter_IV_-_Official_Complete_Wor-1)
+  - [Parte 2](https://archive.org/details/artbook-Super_Street_Fighter_IV_-_Official_Complete_Wor)
+- Tohuo Project
+  - [Libro de Arte Unoficial](https://archive.org/details/42_20200706/)
+  - [Ilustraciones de ZUN](https://en.touhouwiki.net/wiki/Miscellaneous_illustrations_by_ZUN)
 
 ## Manuales
 - [MDK](https://retrogamer.biz/wp-content/uploads/2016/01/MDK-Manual.pdf)
