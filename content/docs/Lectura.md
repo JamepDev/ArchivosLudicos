@@ -51,32 +51,49 @@ pueden encontrar fácilmente en Amazon o por
 - Bayonetta
   - [The Eyes Of Bayonetta](https://archive.org/details/bayonetta1officialartbookeyesofbayonetta_201912)
   - [The Art Of Bayonetta](https://archive.org/details/bayoartbook)
-- [Bayonetta 2](https://archive.org/details/BAYONETTA2OFFICIALARTBOOKTHEEYESOFBAYONETTA2ByKBG_201812/mode/2up)
+- [Bayonetta 2](https://archive.org/details/BAYONETTA2OFFICIALARTBOOKTHEEYESOFBAYONETTA2ByKBG_201812)
+- [Borderlands 2](https://archive.org/details/the-art-of-borderlands-2)
 - [Dark Souls](https://archive.org/details/DarkSoulsLENM2106Xbox360PAL/)
 - [Dark Souls 2](https://archive.org/details/dark-souls-2-design-works)
 - [Dead Space](https://archive.org/details/the-art-of-dead-space)
 - [Demon's Souls](https://archive.org/details/DemonsSoulsBlackPhantomEditionArtbookCBZ)
+- [Drangon's Dogma](https://archive.org/details/artbook-Dragons_Dogma_1)
 - [Elden Ring](https://archive.org/details/Elden_Ring_Digital_Artbook)
+- [Fallout 3](https://archive.org/details/artbook-The_Art_Of_Fallout_3)
+- [Fallout 4](https://archive.org/details/the-art-of-fallout-4)
 - [Fire Emblem 20th Anniversary](https://archive.org/details/20thanniversaryfamuburemu)
+- [Half Life 2](https://archive.org/details/artbook-Half_Life_2_Raising_The_Bar_Official_Guide_2)
+- [killer 7](https://archive.org/details/hand-in-killer7-english-redesign/)
+- [Mafia II](https://archive.org/details/artbook-Mafia_II_-_pin-up_calendar/)
+- [Kingdom Hearts: Visual Art Collection](https://archive.org/details/kingdom-hearts-visual-art-collection-cg-illustration-works)
+- [Linda 3](https://archive.org/details/linda-3-cube-illustrations-art-book-scan-jp-pce-ps)
+- [MM25: Mega Man & Mega Man X Official Complete Works](https://archive.org/details/MegaManMegaManXOfficialCompleteWorksByKBG)
 - Mega Man Battle Network
   - [Capcom Special Collection: Rockman EXE](https://archive.org/details/capcomspecialselectionrockmanexe)
-  - [Mega Man Battle Network Official Complete Works](https://archive.org/details/MegaManBattleNetworkOfficialCompleteWorks)
+  - [Mega Man Battle Network Official Complete Works](https://archive.org/details/MegaManBattleNetworkOfficialCompleteWorks)}
+- [Mega Man Legends 2](https://archive.org/details/capcomspecialselectionrockmandash2artbook)
 - Mega Man Zero
   - [Capcom Special Selection: Rockman Zero](https://archive.org/details/capcomspecialselectionrockmanzero/)
   - [Mega Man Zero: Official Complete Works](https://archive.org/details/rockmanzeroofficialcompleteworks/)
 - [Metroid Dread Artbook](https://archive.org/details/metroid-dread-special-edition-artbook)
+- [Prince of Persia](https://archive.org/details/artbook-Prince_of_Persia)
 - [Resident Evil 2](https://archive.org/details/biohazard-2-prologue-of-terrors)
 - Shadow Of The Colossus
   - [Parte 1](https://archive.org/details/artbook-Shadow_of_the_Colossus_1)
   - [Parte 2](https://archive.org/details/artbook-Shadow_of_the_Colossus_2)
+- [Skullgirls](https://archive.org/details/skullgirlsdigitalsketchbook)
+- [Sonic Generations](https://archive.org/details/sonic-generations-art-book)
 - [Street Fighter 20th Anniversary Artbook](https://archive.org/details/streetfighter20th_201910)
 - [Street Fighter III: New Generation](https://archive.org/details/artbook-Street_Fighter_III_New_Generation_Artbook)
 - Street Fighter IV Official Complete Works
   - [Parte 1](https://archive.org/details/artbook-Super_Street_Fighter_IV_-_Official_Complete_Wor-1)
   - [Parte 2](https://archive.org/details/artbook-Super_Street_Fighter_IV_-_Official_Complete_Wor)
+- [Super Mario Odyssey](https://archive.org/details/37ad-24f-4-cb-14-4d-71-8c-96-7769b-15115e-4)
+- [Titanfall](https://archive.org/details/artbook-The_Art_of_Titanfall)
 - Tohuo Project
   - [Libro de Arte Unoficial](https://archive.org/details/42_20200706/)
   - [Ilustraciones de ZUN](https://en.touhouwiki.net/wiki/Miscellaneous_illustrations_by_ZUN)
+- [Tomb Raider Gallery](https://archive.org/details/artbook-Tomb_Raider_Gallery)
 
 ## Manuales
 - [MDK](https://retrogamer.biz/wp-content/uploads/2016/01/MDK-Manual.pdf)
