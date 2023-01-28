@@ -32,9 +32,12 @@ title: Escenas del mundo
 
 ## 🇲🇽 México
 ### Desarrolladores
+- [Amano Games](https://amano.games/)
 - [Bromio](https://www.bromio.com.mx/)
 - [Dynamic Media Triad](https://www.dmtriad.com/)
+- [HyperBeard](https://hyperbeard.com/)
 - [Lienzo](https://www.lienzo.mx/es/inicio/)
+- [Mecha Studios](https://mechastudios.com/)
 - [Merlino Games](https://www.merlinogames.com/)
 ### Misceláneo
 - [Consolas mexicanas](https://www.youtube.com/playlist?list=PLOrxat7kyFnzShaPeXmOUBecC84DamVOP) 
@@ -50,7 +53,7 @@ title: Escenas del mundo
 
 ## 🇹🇼 Taiwan
 ### Desarrolladores
-
+- [Red Candle Games](https://redcandlegames.com/)
 ### Misceláneo
 - [A'can: An ill-fated video game console from Taiwan](https://www.youtube.com/watch?v=Ycy861t9m_A)
 - [Games from China and Taiwan](https://store.steampowered.com/curator/32768202-Games-from-China-and-Taiwan/)
