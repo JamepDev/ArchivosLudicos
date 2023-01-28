@@ -67,6 +67,9 @@ pueden encontrar fácilmente en Amazon o por
 - [Mafia II](https://archive.org/details/artbook-Mafia_II_-_pin-up_calendar/)
 - [Kingdom Hearts: Visual Art Collection](https://archive.org/details/kingdom-hearts-visual-art-collection-cg-illustration-works)
 - [Linda 3](https://archive.org/details/linda-3-cube-illustrations-art-book-scan-jp-pce-ps)
+- Mass Effect
+  - [Parte 1](https://archive.org/details/artbook-The_Art_of_Mass_Effect_part_1)
+  - [Parte 2](https://archive.org/details/artbook-The_Art_of_Mass_Effect_part_2)
 - [MM25: Mega Man & Mega Man X Official Complete Works](https://archive.org/details/MegaManMegaManXOfficialCompleteWorksByKBG)
 - Mega Man Battle Network
   - [Capcom Special Collection: Rockman EXE](https://archive.org/details/capcomspecialselectionrockmanexe)
@@ -94,10 +97,17 @@ pueden encontrar fácilmente en Amazon o por
   - [Libro de Arte Unoficial](https://archive.org/details/42_20200706/)
   - [Ilustraciones de ZUN](https://en.touhouwiki.net/wiki/Miscellaneous_illustrations_by_ZUN)
 - [Tomb Raider Gallery](https://archive.org/details/artbook-Tomb_Raider_Gallery)
+- [Treasure Various Books](https://archive.org/details/segasaturnvictoryspeciallsilhouettemirageofficialguidebook) 
 
-## Manuales
+## Manuales/Guias
+- [The Legend of Zelda: Majora's Mask 3D](https://archive.org/details/zelda-no-densetsu-majora-no-kamen-3-d-termina-taizen-magazine-supplements-scan-jp-3-ds)
 - [MDK](https://retrogamer.biz/wp-content/uploads/2016/01/MDK-Manual.pdf)
 - [MDK 2](https://archive.org/details/ps2_MDK_2-_Armageddon_USA)
+- [Mega Man Legends](https://archive.org/details/rockman-dash-daibouken-guide)
+- [Psychonauts](https://archive.org/details/xboxmanual_Psychonauts)
+- Vampire: The Masquerade - Bloodlines
+  - [Manual](https://archive.org/details/VAMPIRE_THE_MASQUERADE_BLOODLINES)
+  - [Guia](https://archive.org/details/vampire-the-masquerade-bloodlines-official-strategy-guide-dan-irish)
 
 
 
