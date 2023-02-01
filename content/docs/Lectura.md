@@ -23,6 +23,7 @@ description: Libros, articulos y blogs.
 - [Ira](https://yosoyira.medium.com/)
 - [La Mesita Anacrónica](https://mesitaluder.blogspot.com/)
 - [ROMchip](https://romchip.org/index.php/romchip-journal/index)
+- [shmuplations](https://shmuplations.com)
 - [Tevis Thompson](http://tevisthompson.com/)
 - [Video Game History Foundation](https://gamehistory.org/blog/)
 - [Xator Nova](https://xatornova.blogspot.com/)
