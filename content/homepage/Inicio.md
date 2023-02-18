@@ -18,13 +18,13 @@ widget:
   
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: tertiary
+    color: primary
     image: 
     size: 
     # Options: center, top, right, bottom, left.
-    position: center
+    position: 
     # Options: fixed, local, scroll.
-    attachment: scroll
+    attachment: 
 ---
 <div style="text-align: center"> Bienvenido a este proyecto open source hecho para recopilar y compartir información sobre videojuegos.</div>
 
