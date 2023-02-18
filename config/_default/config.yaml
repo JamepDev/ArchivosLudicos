@@ -1,0 +1,38 @@
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
+
+baseURL: https://jamepdev.github.io/ArchivosLudicos/
+title: Archivos Lúdicos
+theme: hugo-eureka
+
+paginate: 3
+copyright: >
+  Proyecto open source creado por <a href = "https://jamep-site.neocities.org/">Jamep</a> 	
+enableEmoji: true
+enableGitInfo: true
+summaryLength: 75
+
+defaultContentLanguage: es
+hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguageInSubdir: false
+
+markup:
+  # Do not modify markup.highlight
+  highlight:
+    codeFences: false
+    noClasses: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  author: authors
+
+build:
+  useResourceCacheWhen: always

@@ -1,0 +1,7 @@
+main:
+  - name: Sobre la página
+    url: '#Sobre'
+    weight: 1
+  - name: Categorias
+    url: /docs/
+    weight: 2

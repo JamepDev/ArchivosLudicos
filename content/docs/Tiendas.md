@@ -1,9 +1,11 @@
 ---
 title: Tiendas
 description: Tiendas digitales de videojuegos
+toc: true
+date: '2023-02-18'
+lastmod: '2023-02-18'
+featuredImage: "https://raw.githubusercontent.com/JamepDev/ArchivosLudicos/main/images/shop.jpg"
 ---
-# Tiendas de juegos
-
 ## Steam
 La tienda más popular desde hace ya mucho tiempo.
 ### Ventajas
