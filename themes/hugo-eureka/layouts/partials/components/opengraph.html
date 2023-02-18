@@ -2,7 +2,7 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 {{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
 {{ with $icon }}
-<meta property="og:image" content="{{ . }}">
+<meta property="og:image" content="https://raw.githubusercontent.com/JamepDev/ArchivosLudicos/main/content/index.png">
 {{ end }}
 
 <meta property="og:url" content="{{ .Permalink }}" />

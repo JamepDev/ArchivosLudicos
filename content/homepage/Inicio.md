@@ -1,5 +1,6 @@
 ---
 title: Página Principal
+description: Proyecto open source hecho para recopilar y compartir información sobre videojuegos.
 draft: false
 weight: 1
 
@@ -8,7 +9,7 @@ widget:
 
   # Options: sm, md, lg and xl. Default is md.
   width:
-
+    
   sidebar:
     # Options: left and right. Leave blank to hide.
     position:
@@ -18,14 +19,12 @@ widget:
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: tertiary
-    image:
-    #"https://raw.githubusercontent.com/JamepDev/ArchivosLudicos/main/content/index.png"
-    size:
+    image: 
+    size: 
     # Options: center, top, right, bottom, left.
-    position:
+    position: center
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment: scroll
 ---
-<img src = "https://raw.githubusercontent.com/JamepDev/ArchivosLudicos/main/images/index.png">
-Bienvenido a este proyecto open source hecho para recopilar y compartir información sobre videojuegos.
+<div style="text-align: center"> Bienvenido a este proyecto open source hecho para recopilar y compartir información sobre videojuegos.</div>
 
