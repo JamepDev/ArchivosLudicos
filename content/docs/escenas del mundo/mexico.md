@@ -8,6 +8,7 @@ lastmod: '2023-02-18'
 - [Amano Games](https://amano.games/)
 - [Bromio](https://www.bromio.com.mx/)
 - [Dynamic Media Triad](https://www.dmtriad.com/)
+- [Halberd Studios](https://www.halberdstudios.com/)
 - [HyperBeard](https://hyperbeard.com/)
 - [Lienzo](https://www.lienzo.mx/es/inicio/)
 - [Mecha Studios](https://mechastudios.com/)
