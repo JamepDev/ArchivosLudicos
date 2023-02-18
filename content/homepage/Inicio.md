@@ -26,6 +26,6 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-<img src ="https://raw.githubusercontent.com/JamepDev/ArchivosLudicos/main/content/index.png">
+<img src = "https://raw.githubusercontent.com/JamepDev/ArchivosLudicos/main/images/index.png">
 Bienvenido a este proyecto open source hecho para recopilar y compartir información sobre videojuegos.
 
