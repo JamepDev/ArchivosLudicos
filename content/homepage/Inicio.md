@@ -1,6 +1,5 @@
 ---
 title: Página Principal
-description: Proyecto open source hecho para recopilar y compartir información sobre videojuegos.
 draft: false
 weight: 1
 
@@ -8,7 +7,7 @@ widget:
   handler: blank
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: sm
     
   sidebar:
     # Options: left and right. Leave blank to hide.
