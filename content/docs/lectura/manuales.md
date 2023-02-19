@@ -1,6 +1,8 @@
 ---
 title: Manuales/Guias
 description: Explicaciones sobre lo fundamental de varios videojuegos.
+date: '2023-02-18'
+lastmod: '2023-02-18'
 ---
 - [Earthbound](https://archive.org/details/mother-2-himitsu-no-takarabako-strategy-guide-scan-jp-sfc/)
 - [Exodus Guilty](https://archive.org/details/ExodusGuiltyPlayStationPSXJPManuals)
