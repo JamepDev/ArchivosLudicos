@@ -1,8 +1,8 @@
 mainSections:
   - posts
-description: Eureka is a elegant and powerful theme for Hugo.
+description: Proyecto open source hecho para recopilar y compartir información sobre videojuegos.
 
-repoEditURL: https://github.com/JamepDev/ArchivosLudicos/tree/main/
+repoEditURL: https://github.com/JamepDev/ArchivosLudicos/edit/main/
 
 dateFormat: 
 
