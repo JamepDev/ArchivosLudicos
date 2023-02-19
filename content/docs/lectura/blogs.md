@@ -1,6 +1,8 @@
 ---
 title: Blogs
 description: Sitios de gente aficionada.
+date: '2023-02-18'
+lastmod: '2023-02-18'
 ---
 - [.myri](https://imaginarysong.medium.com/)
 - [Bad Game Hall of Fame](https://www.badgamehalloffame.com/)
