@@ -1,6 +1,8 @@
 ---
 title: Libros
 description: Escritos a profundidad sobre uno o varios temas.
+date: '2023-02-18'
+lastmod: '2023-02-18'
 ---
 - Atari to Zelda: Japan's Videogames in Global Contexts - Mia Consalvo
 - Cultural Code: Video Games and Latin America - Phillip Penix-Tadsen 
