@@ -1,6 +1,8 @@
 ---
 title: Libros de Arte
 description: Colección de arte conceptual de varios videojuegos.
+date: '2023-02-18'
+lastmod: '2023-02-18'
 ---
 - [Alice: Madness Returns](https://archive.org/details/artofalicemadnessreturnsPDF)
 - [The Alliance Alive](https://archive.org/details/036_20190915/)
