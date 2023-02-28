@@ -1,5 +1,5 @@
 title: Archivos Lúdicos
-baseURL: /
+baseURL: https://jamepdev.github.io/ArchivosLudicos/
 theme: hugo-eureka
 
 paginate: 3
