@@ -1,12 +1,12 @@
 ---
 title: Libros
 date: '2022-12-19'
-lastmod: '2023-03-23'
+lastmod: '2023-03-20'
 description: Escritos a profundidad sobre uno o varios temas.
 ---
 
-|Titulo|Autor|
-|:------------------------------------------------------										|:------:|
+|Titulo|Autor(es)|
+|:------------------------------------------------------										|:------|
 |Atari to Zelda: Japan's Videogames in Global Contexts											|Mia Consalvo|
 |Cultural Code: Video Games and Latin America													|Phillip Penix-Tadsen|
 |[The CRPG Book Project](https://crpgbook.wordpress.com/)										|Felipe Pepe|
