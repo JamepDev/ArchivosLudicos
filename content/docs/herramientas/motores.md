@@ -25,3 +25,11 @@ Un motor que ha evolucionado constantemente, actualmente propiedad de Opera.
 * Editor de gráficos incluído en el IDE
 * Interfaz dividida por categorías (Sprites, Objetos, Scripts, etc.)
 * Multiplataforma
+
+### [Phaser](https://phaser.io/)
+Motor de juegos orientado a juegos HTML5
+#### Características clave
+* Soporte para WebGL y canvas
+* Sistemas de físicas, I/O, partículas, cámara, plugins, audio y tilemaps
+* Soporte para dispositivos móviles
+* Código abierto
