@@ -1,6 +1,6 @@
 ---
 title: Libros de Arte
-date: '2022-12-19'
+date: '2022-01-28'
 lastmod: '2023-03-20'
 description: Colección de arte conceptual de varios videojuegos.
 ---
