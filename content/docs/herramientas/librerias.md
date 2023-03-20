@@ -11,3 +11,11 @@ _bindings_ para diferentes lenguajes, como Rust.
 * Soporte para desarrollo 2D y 3D
 * Multiplataforma
 
+### [PixiJS](https://pixijs.com/)
+Librería de Javascript para renderizar gráficos con WebGL.
+#### Características clave
+* Renderiza gráficos usando WebGL de manera sencilla
+* Orientado a juegos y multimedia HTML5
+* Sistema de contenedores
+* Sistema de emisión de partículas
+
