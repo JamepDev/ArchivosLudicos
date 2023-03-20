@@ -21,7 +21,7 @@ description: Sitios de gente aficionada.
 |[Gaming Alexandria](https://www.gamingalexandria.com/)											|Inglés|
 |[Ira](https://yosoyira.medium.com/)															|Español|
 |[La Mesita Anacrónica](https://mesitaluder.blogspot.com/)										|Español|
-|[On Video Games](https://jmargaris.substack.com/)|												|Inglés|
+|[On Video Games](https://jmargaris.substack.com/)												|Inglés|
 |[ROMchip](https://romchip.org/index.php/romchip-journal/index)									|Inglés|
 |[shmuplations](https://shmuplations.com)														|Inglés|
 |[Tevis Thompson](http://tevisthompson.com/)													|Inglés|
