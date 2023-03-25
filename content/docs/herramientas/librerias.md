@@ -1,6 +1,8 @@
 ---
 title: Librerías
 description: Librerías que ayudan en la programación de un videojuego.
+date: '2023-01-02'
+lastmod: '2023-03-25'
 ---
 ### [Raylib](https://www.raylib.com/)
 Librería de C para la creación de juegos y aplicaciones interactivas. Tiene
