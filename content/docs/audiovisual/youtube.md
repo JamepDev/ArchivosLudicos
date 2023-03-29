@@ -36,7 +36,9 @@ description: Canales hechos por individuos o grupos con diferentes temas que com
 |[The Act Man](https://www.youtube.com/@TheActMan)												|Inglés|
 |[ActionButton](https://www.youtube.com/c/ActionButton) 										|Inglés|
 |[Ahoy](https://www.youtube.com/user/XboxAhoy)          										|Inglés|
+|[Amelie Doree](https://www.youtube.com/@AmelieDoree)                       |Inglés|
 |[Core-A Gaming](https://www.youtube.com/c/CoreAGaming)											|Inglés|
+|[A Critical Hit!](https://www.youtube.com/@ACriticalHit)                   |Inglés|
 |[Cutscenes](https://www.youtube.com/channel/UC1LbVYK0KwVrX9ke3i0tpfQ)							|Inglés/Japonés|
 |[Crowbcat](https://www.youtube.com/@crowbcat)													|Inglés|
 |[DidYouKnowGaming?](https://www.youtube.com/@DYKGaming)										|Inglés|
@@ -65,6 +67,7 @@ description: Canales hechos por individuos o grupos con diferentes temas que com
 |[NeverKnowsBest](https://www.youtube.com/channel/UC1fKT0wuhchtclPqpdWEnHw)						|Inglés|
 |[Noah Caldwell-Gervais](https://www.youtube.com/user/broadcaststsatic)							|Inglés|
 |[Noclip - Video Game Documentaries](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw)	|Inglés|
+|[patbytes](https://www.youtube.com/@patbytes)                                    |Inglés|
 |[People Make Games](https://www.youtube.com/c/PeopleMakeGames)									|Inglés|
 |[RagnarRox](https://www.youtube.com/user/RagnarRoxShow)										|Inglés|
 |[ROM: Read Only Museum](https://www.youtube.com/channel/UC5FcNtu_P4t7IkU_Izh7cVQ)				|Inglés|
