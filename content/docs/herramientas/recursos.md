@@ -11,3 +11,6 @@ de videojuegos.
 * Centrado en el desarrollo del _FOSS Gaming_ (juegos de código abierto)
 * Amplia variedad de arte
 
+### [The VG Resource](https://www.vg-resource.com/)
+Sitio web dedicado a archivar recursos de múltiples videojuegos.
+
