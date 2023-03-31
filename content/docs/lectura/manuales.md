@@ -4,6 +4,7 @@ date: '2023-01-28'
 lastmod: '2023-03-25'
 description: Explicaciones sobre lo fundamental de varios videojuegos.
 ---
+{{< search >}}
 
 |Videjuego|
 |:------------------------------------------------------|

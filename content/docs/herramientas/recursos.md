@@ -4,6 +4,8 @@ description: Misceláneos.
 date: '2023-01-02'
 lastmod: '2023-03-25'
 ---
+{{< search >}}
+
 ### [OpenGameArt](https://opengameart.org/)
 Sitio web con recursos artísticos gratuitos y de libre uso para el desarrollo
 de videojuegos.

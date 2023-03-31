@@ -4,6 +4,8 @@ description: Todo lo relacionado a los Estados Unidos Mexicanos.
 date: '2023-02-18'
 lastmod: '2023-02-18'
 ---
+{{< search >}}
+
 ### Desarrolladores
 - [Amano Games](https://amano.games/)
 - [Bromio](https://www.bromio.com.mx/)

@@ -22,6 +22,8 @@ widget:
     position: center
     attachment: fixed
 ---
+{{< search >}}
 
 <div style="text-align: center"> </div>
 
+<div style="text-align: center"> Bienvenido a este proyecto open source hecho para recopilar y compartir información sobre videojuegos.</div>

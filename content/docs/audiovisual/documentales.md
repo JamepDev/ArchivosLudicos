@@ -4,6 +4,7 @@ description: Narración sobre hechos de este medio.
 date: '2023-02-18'
 lastmod: '2023-02-18'
 ---
+{{< search >}}
 
 - [Tetris: From Russia with Love](https://youtu.be/NhwNTo_Yr3k)
 - [Final Fantasy XIV Series](https://www.youtube.com/playlist?list=PL-THgg8QnvU4EnxPlYmHiYqWoTsHQAYcw)

@@ -4,6 +4,7 @@ date: '2022-12-19'
 lastmod: '2023-03-20'
 description: Escritos a profundidad sobre uno o varios temas.
 ---
+{{< search >}}
 
 |Titulo|Autor(es)|
 |:------------------------------------------------------										|:------|

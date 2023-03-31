@@ -4,6 +4,8 @@ description: Todo lo relacionado a la República de China.
 date: '2023-02-18'
 lastmod: '2023-02-18'
 ---
+{{< search >}}
+
 ## 🇹🇼 Taiwan
 ### Desarrolladores
 - [Red Candle Games](https://redcandlegames.com/)

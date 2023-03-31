@@ -1,0 +1,28 @@
+{
+  "name": "archivosludicos",
+  "version": "1.0.0",
+  "description": "Un proyecto hecho para recopilar y compartir información sobre videojuegos, este es el link para acceder a la página web: <https://jamepdev.github.io/ArchivosLudicos/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamepDev/ArchivosLudicos.git"
+  },
+  "keywords": [
+    "archivos",
+    "ludicos"
+  ],
+  "author": "Jamep",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamepDev/ArchivosLudicos/issues"
+  },
+  "homepage": "https://github.com/JamepDev/ArchivosLudicos#readme",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "parse-md": "2.0.5",
+    "string": "^3.3.3"
+  }
+}
