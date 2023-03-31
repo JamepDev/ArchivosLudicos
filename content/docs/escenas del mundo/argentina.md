@@ -4,6 +4,8 @@ description: Todo lo relacionado a la República Argentina.
 date: '2023-02-18'
 lastmod: '2023-02-18'
 ---
+{{< search >}}
+
 ### Desarrolladores
 - [Daniel Benmergui](http://ludomancy.com/)
 - [Ephemera Games](http://ephemeragames.com/)

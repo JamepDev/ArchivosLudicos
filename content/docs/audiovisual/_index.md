@@ -11,3 +11,4 @@ date: '2023-02-18'
 lastmod: '2023-02-18'
 draft: false
 ---
+{{< search >}}

@@ -4,6 +4,8 @@ description: Charlas formales con más profundidad de diversos temas.
 date: '2023-02-18'
 lastmod: '2023-02-18'
 ---
+{{< search >}}
+
 - [Classic Game Postmortem: Panzer Dragoon, Panzer Dragoon Zwei, and Panzer Dragoon Saga](https://www.youtube.com/watch?v=gMOMsEmde-w)
 - [Classic Game Postmortem: Robotron: 2084](https://youtu.be/90GuCjmNzVI)
 - [Classic Game Postmortem: Yars' Revenge](https://www.youtube.com/watch?v=aqH4k_OEqhY)

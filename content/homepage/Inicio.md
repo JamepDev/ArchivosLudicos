@@ -25,5 +25,6 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-<div style="text-align: center"> Bienvenido a este proyecto open source hecho para recopilar y compartir información sobre videojuegos.</div>
+{{< search >}}
 
+<div style="text-align: center"> Bienvenido a este proyecto open source hecho para recopilar y compartir información sobre videojuegos.</div>

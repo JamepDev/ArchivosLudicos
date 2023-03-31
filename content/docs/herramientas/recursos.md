@@ -2,6 +2,8 @@
 title: Recursos varios
 description: Misceláneos.
 ---
+{{< search >}}
+
 ### [OpenGameArt](https://opengameart.org/)
 Sitio web con recursos artísticos gratuitos y de libre uso para el desarrollo
 de videojuegos.

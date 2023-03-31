@@ -4,6 +4,8 @@ description: Todo lo relacionado al Estado del Japón.
 date: '2023-02-18'
 lastmod: '2023-02-18'
 ---
+{{< search >}}
+
 ### Desarrolladores
 - [Amusement Makers](http://www.kt.rim.or.jp/~aotaka/am/index.htm)
 - [HAL Laboratory](https://www.hallab.co.jp/)

@@ -4,6 +4,8 @@ description: Todo lo relacionado al Reino de Suecia.
 date: '2023-02-18'
 lastmod: '2023-02-18'
 ---
+{{< search >}}
+
 ## 🇸🇪 Suecia
 ### Desarrolladores
 - [Daniel Remar](https://remar.se/daniel/)
