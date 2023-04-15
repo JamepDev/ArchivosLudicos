@@ -2,13 +2,21 @@
 
 const $ = e => document.getElementById(e);
 const create = e => document.createElement(e);
+const sanitize = s => s.toLowerCase()
+  .normalize('NFD')
+  .replace(/[\u0300-\u036f]/g, '');
 
 const JSON_PATH = '/ArchivosLudicos/js/siteIndex.json';
 var siteIndex = {};
 var searchResults;
 
-function addResult(result) {
+function addResult(result, contentQuery) {
   let resultEl = create('div');
+  let contentMatch = contentQuery !== ''? `
+    <small style="color: #38b2ac; background: rgba(0, 0, 0, .85);">
+    El artículo contiene el término: <i>${contentQuery}</i>
+    </small>` :
+    '';
 
   let articleURL = result.filename
     .replace('content', '/ArchivosLudicos')
@@ -24,7 +32,7 @@ function addResult(result) {
     </h3>
     <p style="color: #bfbfbf;">
       ${result.metadata.description}
-    </p>`;
+    </p>${contentMatch}`;
   searchResults.appendChild(resultEl);
 }
 
@@ -36,13 +44,15 @@ function clearResults() {
 function onInput(e) {
   clearResults();
   
-  let query = this.value.toLowerCase();
+  let query = sanitize(this.value);
   let resultArr = siteIndex.filter(result =>
-    result.metadata.title.toLowerCase().includes(query) ||
-    result.metadata.description.toLowerCase().includes(query) ||
-    result.content.toLowerCase().includes(query));
+    sanitize(result.metadata.title).includes(query) ||
+    sanitize(result.metadata.description).includes(query) ||
+    sanitize(result.content).includes(query));
+
   for (result of resultArr)
-    addResult(result);
+    addResult(result,
+      sanitize(result.content).includes(query)? query : '');
 }
 
 function reloadJSON() {
@@ -79,9 +89,18 @@ function createSearchUI() {
   searchInput.style.borderRadius = '5px';
   searchInput.oninput = onInput;
 
+  let searchClose = create('a')
+  searchClose.href = '#';
+  searchClose.innerHTML = '&#10006;';
+  searchClose.style.minWidth = '20rem';
+  searchClose.style.textAlign = 'right';
+  searchClose.addEventListener('click', function() {
+    destroySearchUI(searchScreen)
+  });
+
   searchResults = create('div');
-  searchResults.style.overflow = "scroll";
-  searchResults.style.marginTop = "1.5em";
+  searchResults.style.overflow = 'scroll';
+  searchResults.style.marginTop = '1.5em';
 
   document.body.addEventListener('keydown', e => {
     if (e.keyCode === 27)
@@ -89,6 +108,8 @@ function createSearchUI() {
     else
       searchInput.focus();
   }, true);
+
+  searchScreen.appendChild(searchClose);
   searchScreen.appendChild(searchInput);
   searchScreen.appendChild(searchResults);
 
