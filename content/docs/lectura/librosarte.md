@@ -6,7 +6,7 @@ description: Colección de arte conceptual de varios videojuegos.
 ---
 {{< search >}}
 
-|Videjuego|
+|Videojuego|
 |:------------------------------------------------------|
 |[Alice: Madness Returns](https://archive.org/details/artofalicemadnessreturnsPDF)|
 |[The Alliance Alive](https://archive.org/details/036_20190915/)|
@@ -63,6 +63,7 @@ description: Colección de arte conceptual de varios videojuegos.
 |[Persona 5](https://archive.org/details/380830904-persona-5-official-design-works-artbook-by-kbg)|
 |[Prince of Persia](https://archive.org/details/artbook-Prince_of_Persia)|
 |[Resident Evil 2](https://archive.org/details/biohazard-2-prologue-of-terrors)|
+|[Seiken Densetsu Art Gallery](https://archive.org/details/art-of-mana-seiken-densetsu-art-gallery)|
 |Shadow Of The Colossus: [Parte 1](https://archive.org/details/artbook-Shadow_of_the_Colossus_1), [Parte 2](https://archive.org/details/artbook-Shadow_of_the_Colossus_2)|
 |[Shin Megami Tensei](https://drive.google.com/drive/folders/1mGd-kC7GS5mxaCnV7H5TNn_pAWv9ySu7)|
 |[Skullgirls](https://archive.org/details/skullgirlsdigitalsketchbook)|
