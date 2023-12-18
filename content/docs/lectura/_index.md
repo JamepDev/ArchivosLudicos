@@ -1,6 +1,6 @@
 ---
 title: Lectura
-description: This is an example doc layout of Eureka theme
+description: Libros, Artworks, Manuales, Etc.
 toc: true
 authors:
 tags:
