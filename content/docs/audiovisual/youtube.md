@@ -36,7 +36,6 @@ description: Canales hechos por individuos o grupos con diferentes temas que com
 |[Pabloide](https://www.youtube.com/channel/UCgQ7_cgUWWTi4oQCAlezj1A)							|Español|
 |[pixel2pixel](https://www.youtube.com/user/pixel2pixel)										|Español|
 |[Yo no salgo a la calle](https://www.youtube.com/@El_Rafa)										|Español|
-
 |[The Act Man](https://www.youtube.com/@TheActMan)												|Inglés|
 |[ActionButton](https://www.youtube.com/c/ActionButton) 										|Inglés|
 |[Ahoy](https://www.youtube.com/user/XboxAhoy)          										|Inglés|
