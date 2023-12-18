@@ -5,6 +5,7 @@ date: '2023-02-18'
 lastmod: '2023-02-18'
 ---
 {{< search >}}
+- [CONTRACULTURA Y VIDEOJUEGOS: Permacomputación, fantasy consoles y otras disidencias - Nbmach1ne.](https://youtu.be/1Utf2QifATM)
 
 - [Classic Game Postmortem: Panzer Dragoon, Panzer Dragoon Zwei, and Panzer Dragoon Saga](https://www.youtube.com/watch?v=gMOMsEmde-w)
 - [Classic Game Postmortem: Robotron: 2084](https://youtu.be/90GuCjmNzVI)
