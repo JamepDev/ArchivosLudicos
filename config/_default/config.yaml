@@ -1,10 +1,10 @@
 title: Archivos Lúdicos
-baseURL: /ArchivosLudicos/
+baseURL: https://jamepdev.github.io/ArchivosLudicos/
 theme: hugo-eureka
 
 paginate: 3
 copyright: >
-  Proyecto open source creado por <a href = "https://jamep-site.neocities.org/">Jamep</a> 	
+  Proyecto open source creado por <a href = "https://jamep-site-jamepdev-bcf7c4f78d60f7b857cf03f59d227f129ce94c5a4c8.gitlab.io/">Jamep</a> 	
 enableEmoji: true
 enableGitInfo: true
 summaryLength: 75
