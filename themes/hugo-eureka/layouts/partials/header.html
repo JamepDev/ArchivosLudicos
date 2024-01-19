@@ -26,7 +26,7 @@
             {{- $relPermalink := .RelPermalink }}
             {{- range .Site.Menus.main }}
             {{- $url := .URL | relLangURL }}
-            <a href="{{ $url }}" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2 {{ if hasPrefix $relPermalink $url }} selected-menu-item {{ else }} border-transparent {{ end }} me-4">{{ .Name }}</a>
+            <a href="https://jamepdev.github.io/ArchivosLudicos/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2 {{ if hasPrefix $relPermalink $url }} selected-menu-item {{ else }} border-transparent {{ end }} me-4">{{ .Name }}</a>
             {{- end }}
         </div>
 
