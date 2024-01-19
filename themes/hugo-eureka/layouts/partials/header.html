@@ -15,7 +15,7 @@
     {{- end }}
 </script>
 <nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
-    <a href="{{ "/" | relLangURL }}" class="me-6 text-primary-text text-xl font-bold">{{ .Site.Title }}</a>
+    <a href="https://jamepdev.github.io/ArchivosLudicos/" class="me-6 text-primary-text text-xl font-bold">{{ .Site.Title }}</a>
     <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
         <i class="fas fa-bars"></i>
     </button>
@@ -26,7 +26,7 @@
             {{- $relPermalink := .RelPermalink }}
             {{- range .Site.Menus.main }}
             {{- $url := .URL | relLangURL }}
-            <a href="https://jamepdev.github.io/ArchivosLudicos/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2 {{ if hasPrefix $relPermalink $url }} selected-menu-item {{ else }} border-transparent {{ end }} me-4">{{ .Name }}</a>
+            <a href="{{ $url }}" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2 {{ if hasPrefix $relPermalink $url }} selected-menu-item {{ else }} border-transparent {{ end }} me-4">{{ .Name }}</a>
             {{- end }}
         </div>
 
